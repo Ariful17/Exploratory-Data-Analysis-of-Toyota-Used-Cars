@@ -8,3 +8,5 @@ This analysis focuses on top selling toyota cars based on model, transmission an
 - What's the total sale of the top 5 selling car models/transmission/fuelType?
 
 Dataset- https://github.com/SKawsar/Data_Visualization_with_Python/tree/main
+
+Libraries used - Pandas, Numpy, Matplotlib-pyplot, seaborn
